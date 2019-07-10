@@ -2,4 +2,4 @@ zmiana2
 asdfasdf
 
 asdfsd
-add and commit test
+add and commit testasdfasdf
